@@ -18,5 +18,5 @@ In this repository you will find the following:
   * Bowen catchment SpatialPolygonsDataFrame
 - An R script to reproduce the figures in the presentation.
 
-For instructions on how to install `Vizumap`, see Lydia Luchessi's [github](https://github.com/lydialucchesi/Vizumap) repository.
+For instructions on how to install `Vizumap`, see Lydia Lucchesi's [github](https://github.com/lydialucchesi/Vizumap) repository.
 
